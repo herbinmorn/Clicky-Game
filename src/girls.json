@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "name": "DaiYu",
+      "image": "/Images/girls12(2).jpg"
+      
+    },
+    {
+      "id": 2,
+      "name": "BaoChai",
+      "image": "/Images/girls12(3).jpg"
+      
+    },
+    {
+      "id": 3,
+      "name": "YuanChun",
+      "image": "./Images/girls12(4).jpg"
+      
+    },
+    {
+      "id": 4,
+      "name": "TanChun",
+      "image": "./Images/girls12(5).jpg"
+      
+    },
+    {
+      "id": 5,
+      "name": "XiangYun",
+      "image": "./Images/girls12(6).jpg"
+      
+    },
+    {
+      "id": 6,
+      "name": "MiaoYu",
+      "image": "./Images/girls12(7).jpg"
+     
+    },
+    {
+      "id": 7,
+      "name": "YingChun",
+      "image": "./Images/girls12(8).jpg"
+      
+    },
+    {
+      "id": 8,
+      "name": "XiChun",
+      "image": "./Images/girls12(9).jpg"
+    
+    },
+    {
+      "id": 9,
+      "name": "XiFeng",
+      "image": "./Images/girls12(10).jpg"
+      
+    },
+    {
+      "id": 10,
+      "name": "Wan Li",
+      "image": "./Images/girls12(11).jpg"
+     
+    },
+    {
+      "id": 11,
+      "name": "QiaoJie",
+      "image": "./Images/girls12(12).jpg"
+      
+    },
+    {
+      "id": 12,
+      "name": "KeQing",
+      "image": "./Images/girls12(13).jpg"
+     
+    }
+  ]
+  
